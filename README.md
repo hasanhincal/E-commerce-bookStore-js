@@ -19,4 +19,4 @@ Bookstore is a web application designed for book lovers. Users can discover vari
 
 ![](screen1.gif)
 
-### TOASTR : https://codeseven.github.io/toastr/
+#### TOASTR : https://codeseven.github.io/toastr/
